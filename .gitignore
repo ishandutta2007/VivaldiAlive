@@ -1,0 +1,6 @@
+__pycache__
+vivaldialive/__pycache__
+*.log
+config.txt
+schedule_libs_insta.py
+
